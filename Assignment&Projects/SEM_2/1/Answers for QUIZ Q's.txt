@@ -1,0 +1,25 @@
+Q1.Why technical defintion of basis makes sense? (LECTURE 2)
+
+Ans. Vector space here is nothing but 2-D or 3-D space in which vector can be represented and linearly
+independent vectors are nothing but the vectors that do not lie on each other and are 
+different from each other.
+Multiplication of each linearly independent vector by a scalar and Addition of each of those
+linearly independent vectors can span the full space (vector space i.e 2-D,3-D so on) 
+
+
+i unit vector and j unit vector are basis vector of xy cordinate system because they are linearly
+independent as i have values at x axis(i,0) and have no values for y axis and in j unit vector 
+j have values in y axis(0,j) but no values at x axis so they will not overlap each other
+(linear independent) so that is why i and j can span over full space that is coordinate system here.
+
+Now we know that basis is a set of linearly independent vectors that covers
+or span the full space and that is why this definition of basis makes sense.
+(#Put image i,j cordinate system and of the vector space filled with arrow and dots.)
+
+Q2. Explain in one sentence rather than doing calculation det(M1M2) = det(M1)det(M2). (LECTURE 6)
+Ans. It is well known that determinant is scalar as it represents scaling factor of an area of transformation in space.
+On the left side,the 
+Matrix multiplication done is nothing but transformation in space happening from right matrix to left matrix and then calculating the 
+scaling factor(determinant) of an area in space
+whereas on right side,the scaling factor of an area(determinant) by individual matrix are calculated and then multiplied in 
+similar way as done with scalars.
